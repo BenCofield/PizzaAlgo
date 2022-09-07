@@ -4,3 +4,4 @@
 4. Wait
 5. Tip Driver
 6. Eat pizza
+	a. If order is wrong, do steps 3 again
